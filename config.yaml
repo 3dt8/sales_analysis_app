@@ -1,0 +1,5 @@
+app:
+  title: Phân Tích Doanh Số Cùng Kỳ
+colors:
+  prev_year: orange
+  curr_year: blue

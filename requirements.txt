@@ -1,0 +1,7 @@
+streamlit
+pyinstaller
+pyyaml
+pandas
+numpy
+altair
+plotly
